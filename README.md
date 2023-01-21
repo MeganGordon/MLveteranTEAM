@@ -15,3 +15,5 @@ David Ramirez
 Dominique Warner
 
 Megan Gordon 
+
+Megan's formal education in in theoretical mathematics and has a MA in Math with an emphasis on Geometry and Topology of Manifolds. She has 2.5 years of experience data science researcher in social network analysis. Currently, she is getting to know the different ML libraries - PyTorch, Scikit-Learn, TensorFlow, and her interests are in and understanding the geometry of neural networks. 
